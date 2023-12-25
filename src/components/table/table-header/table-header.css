@@ -1,0 +1,12 @@
+
+.thead__container th {
+    text-align: left;
+    text-transform: capitalize;
+    border-bottom: 0.1rem solid white;
+    cursor: pointer;
+}
+
+.sorting {
+    font-weight: bold;
+    color: coral
+}

@@ -1,0 +1,17 @@
+.header__container {
+    padding: 2rem 0.5rem;
+    border-bottom: 0.5rem solid white;
+    display: flex;
+    justify-content: center;
+    background: #e3e3e3;
+}
+
+.header__input {
+    margin-right: 1rem;
+    height: 1.5rem;
+}
+
+.header__button {
+    height: 1.8rem;
+    box-sizing: border-box;
+}

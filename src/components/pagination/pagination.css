@@ -1,0 +1,6 @@
+.pagination__container {
+    border-top: 0.2rem solid white;
+    padding: 0.5rem;
+    display: flex;
+    justify-content: end;
+}
